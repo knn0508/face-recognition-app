@@ -163,5 +163,4 @@ face_database.pkl
 face_database_export_*.pkl
 .gradio/
 *.pyc
-app.py
 test_app.py
