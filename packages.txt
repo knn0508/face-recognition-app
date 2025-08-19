@@ -1,13 +1,4 @@
-libgl1-mesa-glx
-libglib2.0-0
-libsm6
-libxext6
-libxrender-dev
-libgomp1
-libgthread-2.0-0
-libgtk-3-0
-libgdk-pixbuf2.0-0
-libpango-1.0-0
-libcairo2
-build-essential
 cmake
+build-essential
+libopencv-dev
+python3-opencv
